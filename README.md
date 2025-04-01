@@ -11,7 +11,7 @@ git clone https://github.com/SyntaxScripter/RockPaperScissors.git
 
 ```
 ```bash
-cd 
+cd RockPaerScissors
 ```
 ```bash
 python main.py
